@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.form_number {
+  padding: 5px;
+}
+.form_submit {
+  padding: 5px;
+}
+.attempts, .message {
+  margin: 10px;
+  font-size: larger;
+}
